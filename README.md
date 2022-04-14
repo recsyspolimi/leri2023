@@ -1,1 +1,1 @@
-# IIR 2021 | Italian Information Retrieval Workshop
+# IIR 2022 | Italian Information Retrieval Workshop
