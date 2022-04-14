@@ -1,12 +1,7 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/sisinflab/",
+    "link": "https://github.com/recsyspolimi/",
     "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/sisinflab",
-    "image": "images/social/twitter.svg"
   }
 ]

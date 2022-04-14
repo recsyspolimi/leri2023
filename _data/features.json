@@ -1,12 +1,13 @@
 [
   {
-    "title": "SisInfLab",
-    "description": "Politecnico di Bari",
-    "image": "images/sisinflab-logo.png"
+    "title": "Politecnico di Milano",
+    "description": "",
+    "image": "images/Logo_Politecnico_Milano3-1.png"
   },
+  
   {
-    "title": "IMS Research Group",
-    "description": "Università degli Studi di Padova",
-    "image": "images/ims-logo.png"
+    "title": "Università di Milano-Bicocca",
+    "description": "",
+    "image": "images/Logo_Università_Milano-Bicocca.svg.png"
   }
 ]

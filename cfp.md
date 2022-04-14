@@ -5,20 +5,19 @@ layout: page
 bodyClass: page-about
 ---
 
-## **DUE TO SEVERAL REQUESTS, THE SUBMISSION DEADLINE IS EXTENDED TO JULY THE 2ND, 2021**
 
 ## Scope
 The purpose of the Italian Information Retrieval Workshop (IIR) is to provide a meeting forum for stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way.
 
-IIR 2021 is the 11th edition of the Italian Information Retrieval Workshop. It will take place on September 13-15, 2021 at the [Department of Electrical and Information Engineering](http://deipoliba.azurewebsites.net/en/) of the [Polytechnic University of Bari](http://www.en.poliba.it/), Italy.
+IIR 2021 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - July 1st, 2022 at the TBD of the [Polytechnic University of Milano](https://www.polimi.it/en/), and the TBD of [University of Milano-Bicocca](https://en.unimib.it/), Italy.
 
-This edition of the Italian Information Retrieval Workshop will include a number of invited lectures from senior researchers.   
+This edition of the Italian Information Retrieval Workshop will include a number of invited lectures and tutorials from senior researchers.
 
-Participation to the IIR 2021 workshop will be free of charge. However, advance registration will be strictly required.
+Participation to the IIR 2022 workshop will be free of charge. However, advance registration will be strictly required.
 
 ## Topics
 
-IIR 2021 offers an opportunity to present and discuss both theoretical and empirical research. Relevant topics include, but are not restricted to:
+IIR 2022 offers an opportunity to present and discuss both theoretical and empirical research. Relevant topics include, but are not restricted to:
 
 - **Search and Ranking.** Research on core IR algorithmic topics, including IR at scale, covering topics such as:  
   - Queries and query analysis  
@@ -82,16 +81,16 @@ Authors are invited to submit one of the following types of contributions:
 * Short original papers (5 pages, plus additional pages for references if needed)
 * Extended abstracts containing descriptions of ongoing projects or presenting already published results (up to 4 pages, plus additional pages for references if needed)
 
-Submission will be through Easychair at [https://easychair.org/conferences/?conf=iir2021](https://easychair.org/conferences/?conf=iir2021).
+Submission will be through Easychair at TBA.
 
 **A Special Prize will be awarded to the Best Papers selected by the Steering Committee of IIR.**
 
 ## Important Dates
-* **Submission website opens**: <s>May 10, 2021</s>
-* **Submission deadline**: <s>June 18, 2021</s>
-* **Submission deadline**: <s>July 2, 2021</s>
-* **Notification of acceptance**: <s>August 4, 2021</s>
-* **Camera ready deadline**: <s>August 13, 2021</s>
-* **IIR 2021**: September 13-15, 2021
+* **Submission website opens**: TBA
+* **Submission deadline**: TBA
+* **Submission deadline**: TBA
+* **Notification of acceptance**: TBA
+* **Camera ready deadline**: TBA
+* **IIR 2021**: June 29th - July 1st, 2022
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
