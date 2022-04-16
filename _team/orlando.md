@@ -5,7 +5,7 @@ draft: false
 image: "images/team/orlando.jpg"
 jobtitle: "Program Chair"
 institutionurl: "https://www.unive.it/"
-institution: Libera Università di Bolzano
+institution: Università Ca' Foscari Venezia
 promoted: true
 weight: 1
 layout: team
