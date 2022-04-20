@@ -83,8 +83,6 @@ Authors are invited to submit one of the following types of contributions:
 
 Submission will be through Easychair at https://easychair.org/conferences/?conf=iir2022
 
-**A Special Prize will be awarded to the Best Papers selected by the Steering Committee of IIR.**
-
 ## Important Dates
 * **Submission website opens**: TBA
 * **Submission deadline**: May 21, 2022
