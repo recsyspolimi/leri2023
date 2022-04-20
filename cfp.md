@@ -9,9 +9,9 @@ bodyClass: page-about
 ## Scope
 The purpose of the Italian Information Retrieval Workshop (IIR) is to provide a meeting forum for stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way.
 
-IIR 2021 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - July 1st, 2022 at the TBD of the [Polytechnic University of Milano](https://www.polimi.it/en/), and the TBD of [University of Milano-Bicocca](https://en.unimib.it/), Italy.
+IIR 2022 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - July 1st, 2022 and it is jointly organised by Politecnico di Milano (where it will take place on both June 29th and July 1st) and by the University of Milano Bicocca (where it will take place on June the 30th).
 
-This edition of the Italian Information Retrieval Workshop will include a number of invited lectures and tutorials from senior researchers.
+IIR 2022 aims to be an in-presence event. Nevertheless, on-line presentations and participation is allowed.
 
 Participation to the IIR 2022 workshop will be free of charge. However, advance registration will be strictly required.
 
@@ -81,15 +81,14 @@ Authors are invited to submit one of the following types of contributions:
 * Short original papers (5 pages, plus additional pages for references if needed)
 * Extended abstracts containing descriptions of ongoing projects or presenting already published results (up to 4 pages, plus additional pages for references if needed)
 
-Submission will be through Easychair at TBA.
+Submission will be through Easychair at https://easychair.org/conferences/?conf=iir2022
 
 **A Special Prize will be awarded to the Best Papers selected by the Steering Committee of IIR.**
 
 ## Important Dates
 * **Submission website opens**: TBA
-* **Submission deadline**: TBA
-* **Submission deadline**: TBA
-* **Notification of acceptance**: TBA
+* **Submission deadline**: May 21, 2022
+* **Notification of acceptance**: June 11, 2022
 * **Camera ready deadline**: TBA
 * **IIR 2021**: June 29th - July 1st, 2022
 
