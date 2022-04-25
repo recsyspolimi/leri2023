@@ -84,10 +84,10 @@ Authors are invited to submit one of the following types of contributions:
 Submission will be through Easychair at <a href="https://easychair.org/conferences/?conf=iir2022" target="_blank">https://easychair.org/conferences/?conf=iir2022</a>.
 
 ## Important Dates
-* **Submission website opens**: TBA
+* **Submission website opens**: April 21, 2022
 * **Submission deadline**: May 21, 2022
 * **Notification of acceptance**: June 11, 2022
-* **Camera ready deadline**: TBA
+* **Camera ready deadline**: June 19, 2022
 * **IIR 2021**: June 29th - July 1st, 2022
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
