@@ -81,7 +81,7 @@ Authors are invited to submit one of the following types of contributions:
 * Short original papers (5 pages, plus additional pages for references if needed)
 * Extended abstracts containing descriptions of ongoing projects or presenting already published results (up to 4 pages, plus additional pages for references if needed)
 
-Submission will be through Easychair at https://easychair.org/conferences/?conf=iir2022
+Submission will be through Easychair at [https://easychair.org/conferences/?conf=iir2022](https://easychair.org/conferences/?conf=iir2022)
 
 ## Important Dates
 * **Submission website opens**: TBA
