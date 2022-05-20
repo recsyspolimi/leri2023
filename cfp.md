@@ -85,7 +85,7 @@ Submission will be through Easychair at <a href="https://easychair.org/conferenc
 
 ## Important Dates
 * **Submission website opens**: April 21, 2022
-* **Submission deadline**: ~~May 21, 2022~~ **June 1, 2022**  Extended!
+* **Submission deadline**: ~~May 21, 2022~~ **June 2, 2022**  Extended!
 * **Notification of acceptance**: ~~June 11, 2022~~ **June 15, 2022**  Extended!
 * **Camera ready deadline**: June 19, 2022
 * **IIR 2021**: June 29th - July 1st, 2022
