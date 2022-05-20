@@ -74,7 +74,7 @@ bodyClass: page-team-list
 <div class="container pt-4">
   <h1>Proceedings Chairs</h1>
     <div class="row">
-        {% assign promoted_teams = site.team | where: "jobtitle", "Proceedings Chairs" | sort: "weight" %}
+        {% assign promoted_teams = site.team | where: "jobtitle", "Proceedings Chair" | sort: "weight" %}
         {% for team in promoted_teams %}
         <div class="col-12 col-md-6 mb-2">
             <div class="team team-summary team-summary-large">
