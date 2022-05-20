@@ -72,7 +72,8 @@ IIR 2022 offers an opportunity to present and discuss both theoretical and empir
 ## Submissions
 Submissions of full research papers must be in English, in PDF format in the CEUR-WS single-column conference format available at [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip).
 
-Submission will be peer reviewed and accepted papers will appear in the CEUR workshop series. Papers may range from theoretical works to system descriptions.
+Submission will be peer reviewed and accepted papers will appear in the CEUR workshop series (at authors’ discretion). 
+Papers may range from theoretical works to system descriptions.
 We particularly encourage PhD students or Early-Stage Researchers to submit their research. We also welcome contributions from the industry and papers describing ongoing funded projects which may result useful to the IIR community.   
 The conference language is English.
 
