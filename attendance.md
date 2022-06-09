@@ -14,8 +14,6 @@ We kindly remind that post-proceedings will include only accepted papers that wi
 
 
 ## Venue
-TBD
+IIR 2022 will take place at both Politecnico di Milano and University of Milano-Bicocca, Italy. More details will be announced soon.
 
-## Accomodation
 
-TBD
