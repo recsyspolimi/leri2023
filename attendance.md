@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 ## Registration
-This year the participation to the IIR 2021 workshop is in person. As in the past editions, the registration is free of charge, but it is strictly required.
+This year the participation to the IIR 2022 workshop is in person. As in the past editions, the registration is free of charge, but it is strictly required.
 
 If you know whether and when you are coming, please register as soon as possible. You can register till June 20th. To register, please fill in <a href="https://forms.office.com/r/kLwftmQHwh" target="_blank">this form</a>.
 
