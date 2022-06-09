@@ -8,7 +8,7 @@ bodyClass: page-about
 ## Registration
 This year the participation to the IIR 2022 workshop is in person. As in the past editions, the registration is free of charge, but it is strictly required.
 
-If you know whether and when you are coming, please register as soon as possible. You can register till June 20th. To register, please fill in <a href="https://forms.office.com/r/kLwftmQHwh" target="_blank">this form</a>.
+Please register as soon as possible by filling in <a href="https://forms.office.com/r/kLwftmQHwh" target="_blank">this form</a>. The registration is open until June 20th.
 
 We kindly remind that post-proceedings will include only accepted papers that will be presented at the workshop by one of the authors.
 
