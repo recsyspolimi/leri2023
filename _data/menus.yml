@@ -11,9 +11,9 @@ main:
 #   - name: "Program Committee"
 #     url: "/program-committee/"
 #     weight: 6
-   - name: "Program"
-     url: "/program/"
-     weight: 3
+#   - name: "Program"
+#     url: "/program/"
+#     weight: 3
 #   - name: "Proceedings"
 #     url: "/proceedings/"
 #     weight: 8
