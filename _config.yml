@@ -86,9 +86,9 @@ conference:
   main:
     # logo:
     #   img: ''
-    links:
-      - name: Program
-        relative_url: /program/
+#    links:
+#      - name: Program
+#        relative_url: /program/
 
   talks:
     # Talk categories
@@ -111,12 +111,12 @@ conference:
     # Show first and last name
     show_firstname: true
 
-  program:
-    # URL of program page
-    url: '/program'
-
-    # Time steps in program table
-    time_steps: 15 # in minutes
-
-    # Show intermediary time steps (next to full hours)
-    show_alltimes: true
+#  program:
+#    # URL of program page
+#    url: '/program'
+#
+#    # Time steps in program table
+#    time_steps: 15 # in minutes
+#
+#    # Show intermediary time steps (next to full hours)
+#    show_alltimes: true
