@@ -12,6 +12,6 @@ The purpose of the **Italian Information Retrieval Workshop** (**IIR**) is to pr
 
 IIR 2021 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - July 1st, 2022 at [Politecnico di Milano](https://www.polimi.it/en/), and the [University of Milano-Bicocca](https://en.unimib.it/), Italy.
 
-This edition of the Italian Information Retrieval Workshop will include a number of invited lectures and tutorials from senior researchers.
+This edition of the Italian Information Retrieval Workshop will include a number of invited lectures from senior researchers.
 
 Participation to the IIR 2022 workshop will be free of charge. However, advance registration will be strictly required.
