@@ -8,12 +8,12 @@ main:
   - name: "Organization"
     url: "/organization/"
     weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 3
 #   - name: "Program Committee"
 #     url: "/program-committee/"
 #     weight: 6
-   - name: "Program"
-     url: "/program/"
-     weight: 3
 #   - name: "Proceedings"
 #     url: "/proceedings/"
 #     weight: 8
