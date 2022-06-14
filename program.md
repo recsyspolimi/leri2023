@@ -1,9 +1,9 @@
 ---
-title: Program
-layout: schedule
+title: 'Program'
+layout: page
 permalink: /program/
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+date: 2018-02-22T17:01:34+07:00
+bodyClass: page-about
 ---
 
 # Program
