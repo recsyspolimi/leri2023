@@ -95,8 +95,6 @@ conference:
     main_categories:
       - name: Keynote
         color: info
-      - name: Tutorial
-        color: dark
       - name: Session
         color: warning
       - name: Breaks
