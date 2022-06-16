@@ -14,9 +14,7 @@ TBC
 # Program
 
   
-| ------------- | ------------- | 
 |           | June 29 Politecnico di Milano       | 
-| ------------- | ------------- | 
 |  14.00        | Opening       | 
 | ------------- | ------------- | 
 |               | Session 1 - Chair Gabriella Pasi  | 
