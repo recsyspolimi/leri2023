@@ -9,7 +9,7 @@ bodyClass: page-about
 ## Scope
 The purpose of the Italian Information Retrieval Workshop (IIR) is to provide a meeting forum for stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way.
 
-IIR 2022 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - July 1st, 2022 and it is jointly organised by Politecnico di Milano (where it will take place on both June 29th and July 1st) and by the University of Milano Bicocca (where it will take place on June the 30th).
+IIR 2022 is the 12th edition of the Italian Information Retrieval Workshop. It will take place on June 29th - 30th, 2022 and it is jointly organised by Politecnico di Milano (where it will take place on June 29th) and by the University of Milano Bicocca (where it will take place on June the 30th).
 
 IIR 2022 aims to be an in-presence event. Nevertheless, on-line presentations and participation is allowed.
 
@@ -89,6 +89,6 @@ Submission will be through Easychair at <a href="https://easychair.org/conferenc
 * **Submission deadline**: ~~May 21, 2022~~ **June 2, 2022**  Extended!
 * **Notification of acceptance**: ~~June 11, 2022~~ **June 15, 2022**  Extended!
 * **Camera ready deadline**: June 19, 2022
-* **IIR 2022**: June 29th - July 1st, 2022
+* **IIR 2022**: June 29th - 30th, 2022
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
