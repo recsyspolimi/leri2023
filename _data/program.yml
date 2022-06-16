@@ -23,7 +23,7 @@ days:
             time_end: '18:15'
           - name: 'Welcome Cocktail - Light Dinner'
             time_start: '19:00'
-            time_end: '20:00'
+            time_end: '20:30'
             hide: true
   - name: Thursday
     abbr: Th
