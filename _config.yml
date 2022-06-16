@@ -86,9 +86,9 @@ conference:
   main:
     # logo:
     #   img: ''
-#    links:
-#      - name: Program
-#        relative_url: /program/
+    links:
+      - name: Program
+        relative_url: /program/
 
   talks:
     # Talk categories
@@ -101,7 +101,7 @@ conference:
         color: warning
       - name: Breaks
         color: success
-      - name: Award
+      - name: Closing
         color: danger
 
     # Hide icons on talk overview page

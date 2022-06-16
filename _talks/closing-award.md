@@ -1,6 +1,6 @@
 ---
-name: Closing and Award Ceremony
+name: Closing
 hide: true
 categories:
-  - Award
+  - Closing
 ---

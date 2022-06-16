@@ -1,5 +1,5 @@
 ---
-name: Welcome Cocktail
+name: Welcome Cocktail - Light Dinner
 hide: true
 categories:
   - Breaks

@@ -1,50 +1,20 @@
 [
   {
-    "title": "Measuring the Ranking Quality of Recommendations in a Two-Dimensional Carousel Setting",
-    "authors": "Nicolò Felicioni, Maurizio Ferrari Dacrema, Fernando Benjamín Pérez Maurera and Paolo Cremonesi",
-    "type": "LP",
-    "duration": 15
+    "title": "Assessing the Semantic Difficulty of Queries",
+    "authors": "Guglielmo Faggioli and Stefano Marchesin",
+    "type": "",
+    "duration": 20
   },
   {
-    "title": "Holistic Summarization of Recommender Systems Results",
-    "authors": "Noemi Mauro, Zhongli Filippo Hu, Liliana Ardissono, Sara Capecchi, Gianmarco Izzi and Claudio Mattutino",
-    "type": "SP",
-    "duration": 10
+    "title": "Istella22: a Novel Dataset for the Evaluation of Traditional and Neural Learning to Rank Solutions",
+    "authors": "Domenico Dato, Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, and Nicola Tonellotto",
+    "type": "",
+    "duration": 20
   },
   {
-    "title": "Quality and Diversity of Recommender Systems Users’ Choices: a Simulation Perspective",
-    "authors": "Naieme Hazrati and Francesco Ricci",
-    "type": "ABS",
-    "duration": 8
+    "title": "Towards an Information Retrieval evaluation library",
+    "authors": "Elias Bassani",
+    "type": "",
+    "duration": 20
   },
-  {
-    "title": "How to perform reproducible experiments in the ELLIOT recommendation framework: data processing, model selection, and performance evaluation",
-    "authors": "Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Eugenio Di Sciascio and Tommaso Di Noia",
-    "type": "ABS",
-    "duration": 8
-  },
-  {
-    "title": "An Investigation on the Impact of Natural Language on Conversational Recommendations",
-    "authors": "Andrea Iovine, Fedelucio Narducci, Marco de Gemmis and Giovanni Semeraro",
-    "type": "ABS",
-    "duration": 8
-  },
-  {
-    "title": "A Regression Framework to Interpret the Robustness of Recommender Systems Against Shilling Attacks ",
-    "authors": "Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio and Felice Antonio Merra",
-    "type": "ABS",
-    "duration": 8
-  },
-  {
-    "title": "Using an ensemble of features for personalized recommendations of scientific publications",
-    "authors": "Paolo Tenti, James Thomas, Rafael Penaloza, Gabriella Pasi",
-    "type": "ABS",
-    "duration": 8
-  },
-  {
-    "title": "Combining Mitigation Treatments against Biases in Personalized Rankings: Use Case on Item Popularity",
-    "authors": "Ludovico Boratto, Gianni Fenu and Mirko Marras",
-    "type": "ABS",
-    "duration": 8
-  }
 ]

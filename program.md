@@ -1,11 +1,9 @@
 ---
 title: Program
-layout: page
+layout: schedule
 permalink: /program/
-date: 2018-02-22T17:01:34+07:00
-bodyClass: page-about
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
 # Program
-
-TBA
