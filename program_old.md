@@ -13,7 +13,9 @@ TBC
 
 # Program
 
- June 29 Politecnico di Milano 
+  
+| ------------- | ------------- | 
+|           | June 29 Politecnico di Milano       | 
 | ------------- | ------------- | 
 |  14.00        | Opening       | 
 | ------------- | ------------- | 
