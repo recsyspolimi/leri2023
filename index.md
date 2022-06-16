@@ -2,7 +2,7 @@
 title: IIR 2022
 layout: home
 description: 12th Italian Information Retrieval Workshop
-date_location: June 29th - July 1st, 2022<br>Milano, Italy
+date_location: June 29th - June 30th, 2022<br>Milano, Italy
 intro_image: "images/citylife.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
