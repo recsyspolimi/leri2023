@@ -1,7 +1,19 @@
 [
   {
-    "title": "TBD",
-    "authors": "TBD",
+    "title": "Evaluating Recommendations in a User Interface With Multiple Carousels",
+    "authors": "Maurizio Ferrari Dacrema, Nicolò Felicioni and Paolo Cremonesi",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Multi-Criteria Evaluation of Point of Interest Recommendations",
+    "authors": "David Massimo and Francesco Ricci",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Sustainability driven Recommender Systems",
+    "authors": "Pavel Merinov, David Massimo and Francesco Ricci",
     "type": "",
     "duration": 20
   },
