@@ -1,7 +1,37 @@
 [
   {
-    "title": "TBD",
-    "authors": "TBD",
+    "title": "Revisiting Retrieval-based Approaches for Conversational Recommender Systems",
+    "authors": "Ahtsham Manzoor and Dietmar Jannach",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": " Replication of Recommender Systems with Impressions",
+    "authors": "Fernando Benjamín Pérez Maurera, Maurizio Ferrari Dacrema and Paolo Cremonesi",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Replication of Collaborative Filtering Generative Adversarial Networks on Recommender Systems",
+    "authors": "Fernando Benjamín Pérez Maurera, Maurizio Ferrari Dacrema and Paolo Cremonesi",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Group Dynamic and Group Recommender Systems for Decision Support",
+    "authors": "Hanif Emamgholizadeh and Francesco Ricci",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Choice Models for Simulating the Consumption of Recommendations",
+    "authors": "Naieme Hazrati and Francesco Ricci",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "An Analysis of User Click Behaviour in Online Hotel Search",
+    "authors": "Emanuele Cavenaghi, Lorenzo Camaione, Paolo Minasi, Gabriele Sottocornola, Fabio Stella and Markus Zanker",
     "type": "",
     "duration": 20
   },
