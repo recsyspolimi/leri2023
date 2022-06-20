@@ -1,7 +1,31 @@
 [
   {
-    "title": "TBD",
-    "authors": "TBD",
+    "title": "Assessing the Semantic Difficulty of Queries",
+    "authors": "Guglielmo Faggioli and Stefano Marchesin",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs",
+    "authors": "Veronica Gil-Costa, Fernando Loor, Romina Molina, Franco Maria Nardini, Raffaele Perego and Salvatore Trani",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Learning to rank from relevance judgments distributions",
+    "authors": "Alberto Purpura, Gianmaria Silvello and Gian Antonio Susto",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Filtering out Outliers in Learning to Rank",
+    "authors": "Federico Marcuzzi, Claudio Lucchese and Salvatore Orlando",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Feature Selection via Quantum Annealers for Ranking and Classification Tasks",
+    "authors": "Maurizio Ferrari Dacrema, Fabio Moroni, Riccardo Nembrini, Nicola Ferro, Guglielmo Faggioli and Paolo Cremonesi",
     "type": "",
     "duration": 20
   },
