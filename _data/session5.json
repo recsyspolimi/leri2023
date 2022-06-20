@@ -1,7 +1,37 @@
 [
   {
-    "title": "TBD",
-    "authors": "TBD",
+    "title": "Addressing Privacy in Recommender Systems with Federated Learning",
+    "authors": "Vito Walter Anelli, Tommaso Di Noia, Eugenio Di Sciascio, Antonio Ferrara and Alberto Carlo Maria Mancino",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "Recency, Popularity, and Diversity of Explanations in Knowledge-based Recommendation",
+    "authors": "Giacomo Balloccu, Ludovico Boratto, Gianni Fenu and Mirko Marras",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "An analysis of local explanation with LIME-RS",
+    "authors": "Vito Walter Anelli, Alejandro Bellogín, Tommaso Di Noia, Francesco Maria Donini, Vincenzo Paparella and Claudio Pomo",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "ILMART: Interpretable Ranking with Constrained LambdaMART",
+    "authors": "Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego and Alberto Veneri",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "AI-based decision support systems for the management of e-procurement procedures",
+    "authors": "Pasquale Lops, Marco Di Ciano, Nicola Lopane, Lucia Siciliani, Eleonora Ghizzota, Vincenzo Taccardi and Giovanni Semeraro",
+    "type": "",
+    "duration": 20
+  },
+  {
+    "title": "A Modular Approach to Topic Modeling for Heterogeneous Documents",
+    "authors": "Giovanni Toto and Emanuele Di Buccio",
     "type": "",
     "duration": 20
   },
