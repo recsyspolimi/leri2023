@@ -31,7 +31,7 @@ days:
     rooms:
       - name: Aula C1 - University of Milano-Bicocca
         talks:
-          - name: 'Keynote'
+          - name: 'From Implicit Data to Cognitive Models for Recommender Systems'
             time_start: '09:00'
             time_end: '09:45'
           - name: Session 3
