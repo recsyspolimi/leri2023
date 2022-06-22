@@ -2,6 +2,11 @@
   {
     "name": "Github",
     "link": "https://github.com/recsyspolimi/",
-    "image": "images/social/github.svg"
+    "image": "images/social/recsyslab.png"
+  }, 
+  {
+    "name": "Github",
+    "link": "https://github.com/ikr3-lab",
+    "image": "images/social/ikr3.png"
   }
 ]
