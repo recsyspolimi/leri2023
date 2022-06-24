@@ -7,8 +7,8 @@ bodyClass: page-about
 
 # 12th Italian Information Retrieval Workshop 2022
 
-Proceedings of the 12th Italian Information Retrieval Workshop 2022
-Milan, Italy, June 29-30, 2022.
+Informal proceedings of the 12th Italian Information Retrieval Workshop 2022 Milan, Italy, June 29-30, 2022.
+Official proceedings will be published online by CEUR Workshop Proceedings (CEUR-WS.org, ISSN 1613-0073)
 
 Edited by:
 Gabriella Pasi (1)<br>
