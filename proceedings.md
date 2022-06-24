@@ -25,7 +25,7 @@ Gloria Turati (2)<br>
 (5) University of Klagenfurt, Institute of Artificial Intelligence and Cybersecurity, Klagenfurt, Austria<br>
 
 
-Official Proceedings page: TBA
+Official Proceedings page: TBD
 
 <br>
 # Table of Contents
