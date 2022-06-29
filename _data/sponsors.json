@@ -1,17 +1,12 @@
 [
   {
-    "title": "Auriga",
-    "description": "Auriga",
-    "image": "images/auriga.png"
+    "title": "Moviri",
+    "description": "Moviri",
+    "image": "images/moviri-logo.png"
   },
   {
-    "title": "Exprivia",
-    "description": "Exprivia",
-    "image": "images/exprivia.png"
+    "title": "ContentWise",
+    "description": "ContentWise",
+    "image": "images/contentwise-logo.png"
   },
-  {
-    "title": "Fincons",
-    "description": "Fincons",
-    "image": "images/fincons.png"
-  }
 ]
