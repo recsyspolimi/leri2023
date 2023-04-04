@@ -1,22 +1,22 @@
 main:
-  - name: "About IIR"
-    url: "/about/"
-    weight: 2
+#   - name: "About IIR"
+#     url: "/about/"
+#     weight: 2
   - name: "Call for Papers"
     url: "/cfp/"
     weight: 7
   - name: "Organization"
     url: "/organization/"
     weight: 5
-  - name: "Program"
-    url: "/program/"
-    weight: 3
+#   - name: "Program"
+#     url: "/program/"
+#     weight: 3
 #   - name: "Program Committee"
 #     url: "/program-committee/"
 #     weight: 6
-  - name: "Proceedings"
-    url: "/proceedings/"
-    weight: 8
+#   - name: "Proceedings"
+#     url: "/proceedings/"
+#     weight: 8
 #   - name: "Sponsors"
 #     url: "/#sponsor"
 #     weight: 9
