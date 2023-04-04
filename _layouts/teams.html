@@ -19,7 +19,7 @@ bodyClass: page-team-list
 </div>
 
 <div class="container pt-4">
-  <h1>General Chairs</h1>
+  <h1>Organizers</h1>
     <div class="row">
         {% assign promoted_teams = site.team | where: "jobtitle", "General Chair" | sort: "weight" %}
         {% for team in promoted_teams %}
@@ -44,7 +44,7 @@ bodyClass: page-team-list
     </div>
 </div>
 
-<div class="container pt-4">
+<!-- <div class="container pt-4">
   <h1>Program Chairs</h1>
     <div class="row">
         {% assign promoted_teams = site.team | where: "jobtitle", "Program Chair" | sort: "weight" %}
@@ -68,10 +68,10 @@ bodyClass: page-team-list
         </div>
         {% endfor %}
     </div>
-</div>
+</div> -->
 
 
-<div class="container pt-4">
+<!-- <div class="container pt-4">
   <h1>Proceedings Chairs</h1>
     <div class="row">
         {% assign promoted_teams = site.team | where: "jobtitle", "Proceedings Chair" | sort: "weight" %}
@@ -96,10 +96,10 @@ bodyClass: page-team-list
         {% endfor %}
     </div>
 </div>
+ -->
 
 
-
-<div class="container pt-4 pb-6">
+<!-- <div class="container pt-4 pb-6">
   <h1>Local Organization Committee</h1>
     <div class="row pb-6">
         {% assign promoted_teams = site.team | where: "lo", true | sort: "weight" %}
@@ -123,4 +123,4 @@ bodyClass: page-team-list
         </div>
         {% endfor %}
     </div>
-</div>
+</div> -->
