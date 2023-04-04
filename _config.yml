@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: '12th Italian Information Retrieval Workshop'
+title: 'Impress 2023 - Workshop on Learning and Evaluating Recommendations with Impressions'
 
 google_analytics_id: ""
 
@@ -9,14 +9,14 @@ homepage:
   show_social_buttons: true
 
 logo:
-  mobile: "images/logo/logo.png"
-  desktop: "images/logo/logo.png"
+  mobile: "images/recsys-logo.png"
+  desktop: "images/recsys-logo.png"
   desktop_height: "36px"
 
 seo:
-  meta_og_title: "12th Italian Information Retrieval Workshop"
+  meta_og_title: "2023 Workshop on Learning and Evaluating Recommendations with Impressions"
   meta_og_type: "website"
-  meta_og_url: "https://recsyspolimi.github.io/iir2022/"
+  meta_og_url: "https://mauriziofd.github.io/impress2023"
   meta_og_description: "The Italian Information Retrieval Workshop (IIR) is a meeting forum stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way."
 
 
