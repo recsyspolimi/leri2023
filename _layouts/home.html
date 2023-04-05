@@ -4,11 +4,14 @@ layout: default
 bodyClass: page-home
 ---
 
-<h1>{{ page.description }}</h1>
-<h2>{{ page.date_location }}</h2>
-{% if site.homepage.show_social_buttons %}
-  {% include social.html invert_color=true %}
-{% endif %}
+<div class="intro pb-4">
+  <h1>{{ page.description }}</h1>
+  <h2>{{ page.date_location }}</h2>
+  {% if site.homepage.show_social_buttons %}
+    {% include social.html invert_color=true %}
+  {% endif %}
+</div>
+
 
 <!-- <div class="intro pb-4">
    <div class="container">
