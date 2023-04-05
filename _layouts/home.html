@@ -4,7 +4,20 @@ layout: default
 bodyClass: page-home
 ---
 
+
 <div class="intro pb-4">
+      <h1>{{ page.description }}</h1>
+      <h2>{{ page.date_location }}</h2>
+      {% if site.homepage.show_call_box %}
+        {% include call.html show_button=true %}
+      {% endif %}
+      {% if site.homepage.show_social_buttons %}
+        {% include social.html invert_color=true %}
+      {% endif %}
+</div>
+
+
+<!-- <div class="intro pb-4">
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-4 order-1 order-md-1">
@@ -24,7 +37,7 @@ bodyClass: page-home
       {% endif %}
     </div>
   </div>
-</div>
+</div> -->
 
 
 
