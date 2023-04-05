@@ -6,6 +6,8 @@ bodyClass: page-home
 
 
 <div class="intro pb-4">
+   <div class="container">
+    <div class="row justify-content-start">
       <h1>{{ page.description }}</h1>
       <h2>{{ page.date_location }}</h2>
       {% if site.homepage.show_call_box %}
@@ -14,6 +16,8 @@ bodyClass: page-home
       {% if site.homepage.show_social_buttons %}
         {% include social.html invert_color=true %}
       {% endif %}
+      </div>
+  </div>
 </div>
 
 
