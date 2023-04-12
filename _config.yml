@@ -16,8 +16,8 @@ logo:
 seo:
   meta_og_title: "2023 Workshop on Learning and Evaluating Recommendations with Impressions"
   meta_og_type: "website"
-  meta_og_url: "https://mauriziofd.github.io/impress2023"
-  meta_og_description: "The Italian Information Retrieval Workshop (IIR) is a meeting forum stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way."
+  meta_og_url: "https://recsyspolimi.github.io/leri2023/"
+  meta_og_description: "The Workshop on Learning and Evaluating Recommendations with Impressions (LERI 2023) will focus on all aspects related to leveraging impression data to build and evaluate a recommendation engine."
 
 
 collections:
