@@ -26,17 +26,17 @@ The workshop aims to provide a venue for researchers and practitioners to come t
 
 Topics of interests include, but are not limited to: 
 
-- *Conceptual framework*: definition of “impression”, role of impressions in the recommendation task definition, impressions in multi-stage recommendation, user action attribution to impressions, correct recommendations and causation between impressions and future user actions, bias introduced by training on the user reaction to the system’s impressions (closed vs. open feedback loops). 
-- *Recommendation models*: new learning approaches taking advantage of impression data, impression-based input features, sampling from impressions in labelled data, loss functions, model topologies, impression-based reranking. 
-- *Model training*: impressions in data pre-processing, sampling, partitioning, hyperparameter tuning with impressions. 
-- *Evaluation*: evaluation methodology and metrics, impact on offline evaluation bias (challenges and opportunities). 
-- *User modelling*: new models considering user behaviour in face of impressed items. 
-- *Reinforcement learning*: new recommendation models based of reinforcement learning leveraging impressions. 
-- *Off-policy estimation*: design of OPE techniques leveraging impressions. 
-- *Datasets*: collection of new datasets with impressions from different domains, user interfaces, applications. 
-- *Theory*: theoretical aspects in the use of impressions for recommender systems, both in the development of new and improved recommender systems and in their evaluation.  
-- *User studies*: how the user behaviour is impacted by the composition of impressions, impact of user fatigue, etc.  
-- *Perspectives*: new perspectives on existing problems that could benefit or just change by adding impressions as a new variable, as well as old challenges that can be now tackled from new angles, and new challenges that derive from the use of impressions. 
+- **Conceptual framework**: definition of “impression”, role of impressions in the recommendation task definition, impressions in multi-stage recommendation, user action attribution to impressions, correct recommendations and causation between impressions and future user actions, bias introduced by training on the user reaction to the system’s impressions (closed vs. open feedback loops). 
+- **Recommendation models**: new learning approaches taking advantage of impression data, impression-based input features, sampling from impressions in labelled data, loss functions, model topologies, impression-based reranking. 
+- **Model training**: impressions in data pre-processing, sampling, partitioning, hyperparameter tuning with impressions. 
+- **Evaluation**: evaluation methodology and metrics, impact on offline evaluation bias (challenges and opportunities). 
+- **User modelling**: new models considering user behaviour in face of impressed items. 
+- **Reinforcement learning**: new recommendation models based of reinforcement learning leveraging impressions. 
+- **Off-policy estimation**: design of OPE techniques leveraging impressions. 
+- **Datasets**: collection of new datasets with impressions from different domains, user interfaces, applications. 
+- **Theory**: theoretical aspects in the use of impressions for recommender systems, both in the development of new and improved recommender systems and in their evaluation.  
+- **User studies**: how the user behaviour is impacted by the composition of impressions, impact of user fatigue, etc.  
+- **Perspectives**: new perspectives on existing problems that could benefit or just change by adding impressions as a new variable, as well as old challenges that can be now tackled from new angles, and new challenges that derive from the use of impressions. 
 
  
 
@@ -47,12 +47,12 @@ Submissions of full research papers must be in English, in PDF format in the CEU
 Submission will be peer reviewed and accepted papers will appear in the CEUR workshop series (at authors’ discretion). We also welcome contributions from the industry and papers describing ongoing projects. At least one author of the accepted papers must be registered to the workshop. 
 
 Authors are invited to submit one of the following types of contributions: 
-- *Long Papers* should report on substantial contributions of lasting value (*10 pages* plus additional pages for references if needed).  
-- *Short Papers* typically discuss exciting new work that is not yet mature enough for a long paper (*5 pages* plus additional pages for references if needed).  
+- **Long Papers** should report on substantial contributions of lasting value (**10 pages** plus additional pages for references if needed).  
+- **Short Papers** typically discuss exciting new work that is not yet mature enough for a long paper (**5 pages** plus additional pages for references if needed).  
 
  
 
-The review process is *double-blind*. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. We are also planning to invite the authors of published articles to submit an extended version of their work to a journal special issue (TBD). 
+The review process is **double-blind**. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. We are also planning to invite the authors of published articles to submit an extended version of their work to a journal special issue (TBD). 
 
 
 Submission will be through Easychair at TBA. 
