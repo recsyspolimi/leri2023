@@ -66,4 +66,6 @@ Submission will be through Easychair at TBA.
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone. 
 
+## Contacts
 
+If you have questions you can contact us at *maurizio [dot] ferrari [at] polimi [dot] it*.
