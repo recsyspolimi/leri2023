@@ -55,7 +55,7 @@ Authors are invited to submit one of the following types of contributions:
 The review process is **double-blind**. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. We are also planning to invite the authors of published articles to submit an extended version of their work to a journal special issue (TBD). 
 
 
-Submission will be through Easychair at TBA. 
+Submission will be through CMT at this link <a href="https://cmt3.research.microsoft.com/LERI2023" target="_blank">https://cmt3.research.microsoft.com/LERI2023</a>. 
 
 
 ## Important Dates 
