@@ -5,6 +5,6 @@ layout: page
 bodyClass: page-about
 ---
 
-TBA
+The workshop will be held on September 19th 14:00-17:30 in a hybrid format.
 
 
