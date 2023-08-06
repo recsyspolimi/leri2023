@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 
-We are pleased to invite you to contribute to the **1st Workshop on Learning and Evaluating Recommendations with Impressions** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2023) in Singapore, from September 18th to 23rd, 2023**. 
+We are pleased to invite you to contribute to the **1st Workshop on Learning and Evaluating Recommendations with Impressions** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2023) in Singapore, on September 19th 2023**. 
 
 Recommender systems typically rely on past user interactions as the primary source of information for making predictions. However, observed interactions are a sparse and strongly biased signal, which has significant implications for both learning from user actions and evaluating the quality of recommendations offline 
 
