@@ -60,8 +60,8 @@ Submission will be through CMT at this link <a href="https://cmt3.research.micro
 
 ## Important Dates 
 
-- Paper submission deadline: ~~August 3rd, 2023~~ **extended to August 10th, 2023**
-- Author notification: August 27th, 2023 
+- Paper submission deadline: ~~August 3rd, 2023~~ ~~**extended to August 10th, 2023**~~
+- Author notification: August 28th, 2023 
 - Camera-ready version deadline: September 10th, 2023 
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone. 
