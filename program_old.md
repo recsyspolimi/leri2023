@@ -6,20 +6,21 @@ bodyClass: page-about
 ---
 
 # Program
+**14:00 – 15:25	Session 1**
+| 14.00 | Welcome                                                               |
+| 14.10 | Keynote by Jiangwei Pan                                               |
+| 14.40 | **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati |
+|       | **Characterizing Impression-Aware Recommender Systems**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
+|       | **Effects of Human-curated Content on Diversity in PSM: ARD-M Dataset**; Marcel Hauck; Ahtsham Manzoor; Sven Pagel |
 
-TBA
-
-# Accepted Papers
-
-* **Effects of Human-curated Content on Diversity in PSM: ARD-M Dataset**; Marcel Hauck; Ahtsham Manzoor; Sven Pagel
-* **Offline Evaluation using Interactions to Decide Cross-selling Recommendations Algorithm for Online Food Delivery**; Manchit Madan
-* **Contextual Position Bias Estimation using a Single Stochastic Logging Policy**; Giuseppe Di Benedetto; Ben London; Alexander Buchholz; Yannik Stein; Vito Bellini; Matej Jakimov; Matteo Ruffini; Thorsten Joachims
-* **Characterizing Impression-Aware Recommender Systems**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi
-* **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati
-* **Incorporating Impressions to Graph-Based Recommenders**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi
-* **Formulating Video Watch Success Signals for Recommendations on Short Video platforms**; Srijan Saket; Venkata Sai Baba Reddy Velugoti; Rishabh Mehrotra
-
-
+**15:20 – 16:05, Coffee Break**
+**16:05 – 17:35	Session 2**
+| 16.05 | **Formulating Video Watch Success Signals for Recommendations on Short Video platforms**; Srijan Saket; Venkata Sai Baba Reddy Velugoti; Rishabh Mehrotra   |
+|       |  **Offline Evaluation using Interactions to Decide Cross-selling Recommendations Algorithm for Online Food Delivery**; Manchit Madan |
+|       | **Contextual Position Bias Estimation using a Single Stochastic Logging Policy**; Giuseppe Di Benedetto; Ben London; Alexander Buchholz; Yannik Stein; Vito Bellini; Matej Jakimov; Matteo Ruffini; Thorsten Joachims |
+|       | **Incorporating Impressions to Graph-Based Recommenders**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
+| 17.00 | Panel discussion TBD   |
+| 17.30 | Closing   |
 
 
 
