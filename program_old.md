@@ -15,7 +15,7 @@ bodyClass: page-about
 |       | **Characterizing Impression-Aware Recommender Systems**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
 |       | **Effects of Human-curated Content on Diversity in PSM: ARD-M Dataset**; Marcel Hauck; Ahtsham Manzoor; Sven Pagel |
 
-** 15:20 – 16:05** Coffee Break 
+**15:20 – 16:05, Coffee Break** 
 
 | 16:05 | Session 2                                                             |
 |-------|-----------------------------------------------------------------------|
