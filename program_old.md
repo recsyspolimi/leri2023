@@ -7,6 +7,7 @@ bodyClass: page-about
 
 # Program
 **14:00 – 15:25	Session 1**
+|-------|-----------------------------------------------------------------------|
 | 14.00 | Welcome                                                               |
 | 14.10 | Keynote by Jiangwei Pan                                               |
 | 14.40 | **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati |
