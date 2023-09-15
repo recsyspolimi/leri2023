@@ -10,11 +10,11 @@ bodyClass: page-about
 | 14:00 | Session 1                                                             |
 |-------|-----------------------------------------------------------------------|
 | 14.00 | Welcome                                                               |
-| 14.10 | Keynote by Jiangwei Pan                                               |
+| 14.10 | Keynote by Jiangwei Pan (Netflix)                                     |
 | 14.40 | **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati |
 |       | **Characterizing Impression-Aware Recommender Systems**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
 |       | **Effects of Human-curated Content on Diversity in PSM: ARD-M Dataset**; Marcel Hauck; Ahtsham Manzoor; Sven Pagel |
-| 15:20 | Coffee Break                                                               |
+| 15:20 | Coffee Break                                                          |
 
 | 16:05 | Session 2                                                             |
 |-------|-----------------------------------------------------------------------|
