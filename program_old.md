@@ -22,7 +22,7 @@ bodyClass: page-about
 |       |  **Offline Evaluation using Interactions to Decide Cross-selling Recommendations Algorithm for Online Food Delivery**; Manchit Madan |
 |       | **Contextual Position Bias Estimation using a Single Stochastic Logging Policy**; Giuseppe Di Benedetto; Ben London; Alexander Buchholz; Yannik Stein; Vito Bellini; Matej Jakimov; Matteo Ruffini; Thorsten Joachims |
 |       | **Incorporating Impressions to Graph-Based Recommenders**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
-| 17.00 | Panel discussion TBD   |
+| 17.00 | Panel discussion, moderator Paolo Cremonesi   |
 | 17.30 | Closing   |
 
 
