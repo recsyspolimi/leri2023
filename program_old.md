@@ -7,11 +7,13 @@ bodyClass: page-about
 
 # Program
 
+You can find the PDF of the accepted papers (in this folder)[https://polimi365-my.sharepoint.com/:f:/g/personal/10565493_polimi_it/Ek7mVUh0Fd9Omr1U8kXk-dgBBecxlF8rgY7q-OaFXg8fYA?e=5%3aajzWT7&fromShare=true&at=9].
+
 | 14:00 | Session 1                                                             |
 |-------|-----------------------------------------------------------------------|
 | 14.00 | Welcome                                                               |
 | 14.10 | Keynote by **Jiangwei Pan** "Recommendation Modeling with Impression Data at Netflix"                                     |
-| 14.40 | **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati |
+| 14.40 | **Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**; Dong Li; Divya Bhargavi; Vidya Sagar Ravipati  |
 |       | **Characterizing Impression-Aware Recommender Systems**; Fernando Benjamín Pérez Maurera; Maurizio Ferrari Dacrema; Pablo Castells; Paolo Cremonesi |
 |       | **Effects of Human-curated Content on Diversity in PSM: ARD-M Dataset**; Marcel Hauck; Ahtsham Manzoor; Sven Pagel |
 | 15:20 | Coffee Break                                                          |
