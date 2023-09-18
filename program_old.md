@@ -7,7 +7,7 @@ bodyClass: page-about
 
 # Program
 
-You can find the PDF of the accepted papers (in this folder)[https://polimi365-my.sharepoint.com/:f:/g/personal/10565493_polimi_it/Ek7mVUh0Fd9Omr1U8kXk-dgBBecxlF8rgY7q-OaFXg8fYA?e=5%3aajzWT7&fromShare=true&at=9].
+You can find the PDF of the accepted papers [in this folder](https://polimi365-my.sharepoint.com/:f:/g/personal/10565493_polimi_it/Ek7mVUh0Fd9Omr1U8kXk-dgBBecxlF8rgY7q-OaFXg8fYA?e=5%3aajzWT7&fromShare=true&at=9).
 
 | 14:00 | Session 1                                                             |
 |-------|-----------------------------------------------------------------------|
